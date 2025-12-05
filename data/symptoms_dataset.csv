@@ -1,0 +1,103 @@
+symptoms,disease
+"fever,cough,fatigue,difficulty_breathing,loss_of_taste",COVID-19
+"fever,body_ache,fatigue,cough,headache,chills",Influenza (Flu)
+"runny_nose,sneezing,sore_throat,cough,congestion",Common Cold
+"fever,cough,loss_of_taste,loss_of_smell,fatigue",COVID-19
+"sneezing,watery_eyes,runny_nose,congestion",Allergic Rhinitis
+"cough,chest_pain,difficulty_breathing,fatigue,wheezing",Bronchitis
+"high_fever,severe_headache,pain_behind_eyes,joint_pain,muscle_pain,rash",Dengue Fever
+"high_fever,chills,sweating,headache,nausea,vomiting",Malaria
+"high_fever,weakness,stomach_pain,headache,loss_of_appetite",Typhoid
+"fever,severe_headache,stiff_neck,nausea,vomiting,confusion",Meningitis
+"fever,cough,chest_pain,difficulty_breathing,fatigue",Pneumonia
+"abdominal_pain,diarrhea,nausea,vomiting,fever",Gastroenteritis
+"sore_throat,fever,swollen_lymph_nodes,fatigue,headache",Strep Throat
+"fever,rash,cough,runny_nose,watery_eyes",Measles
+"fever,swollen_glands,fatigue,sore_throat,rash",Mononucleosis
+"high_fever,severe_body_ache,joint_pain,rash,headache",Chikungunya
+"fever,headache,muscle_pain,joint_pain,rash,nausea",Zika Virus
+"persistent_cough,chest_pain,weight_loss,night_sweats,fever",Tuberculosis
+"fever,jaundice,dark_urine,fatigue,abdominal_pain",Hepatitis
+"fever,sore_throat,swollen_glands,fatigue,body_ache",Tonsillitis
+"high_fever,chills,sweating,headache,body_ache,fatigue",Malaria
+"fever,severe_headache,pain_behind_eyes,muscle_pain,joint_pain",Dengue Fever
+"high_fever,abdominal_pain,constipation,headache,weakness",Typhoid
+"runny_nose,sore_throat,sneezing,cough,mild_fever",Common Cold
+"fever,body_ache,cough,headache,fatigue,chills",Influenza (Flu)
+"fever,difficulty_breathing,cough,loss_of_smell,chest_pain",COVID-19
+"sneezing,watery_eyes,congestion,runny_nose,itchy_eyes",Allergic Rhinitis
+"cough,wheezing,chest_pain,difficulty_breathing,fatigue",Bronchitis
+"fever,cough,chest_pain,shortness_of_breath,fatigue",Pneumonia
+"diarrhea,abdominal_pain,nausea,vomiting,fever,dehydration",Gastroenteritis
+"sore_throat,fever,difficulty_swallowing,swollen_lymph_nodes",Strep Throat
+"high_fever,severe_headache,joint_pain,muscle_pain,rash,bleeding",Dengue Hemorrhagic Fever
+"high_fever,chills,sweating,nausea,vomiting,headache",Malaria
+"persistent_fever,weakness,abdominal_pain,loss_of_appetite,headache",Typhoid
+"fever,severe_headache,stiff_neck,sensitivity_to_light,confusion",Meningitis
+"fever,rash,cough,runny_nose,conjunctivitis",Measles
+"fever,fatigue,sore_throat,swollen_lymph_nodes,body_ache",Mononucleosis
+"high_fever,joint_pain,muscle_pain,headache,rash",Chikungunya
+"fever,rash,joint_pain,conjunctivitis,headache",Zika Virus
+"persistent_cough,night_sweats,weight_loss,fatigue,chest_pain",Tuberculosis
+"fever,jaundice,nausea,vomiting,abdominal_pain,dark_urine",Hepatitis
+"sore_throat,fever,difficulty_swallowing,swollen_tonsils,headache",Tonsillitis
+"fever,cough,fatigue,body_ache,headache",Influenza (Flu)
+"high_fever,severe_body_ache,headache,pain_behind_eyes,nausea",Dengue Fever
+"fever,chills,sweating,headache,muscle_pain,fatigue",Malaria
+"high_fever,abdominal_pain,headache,weakness,loss_of_appetite",Typhoid
+"runny_nose,sneezing,sore_throat,cough",Common Cold
+"fever,cough,difficulty_breathing,loss_of_taste,fatigue",COVID-19
+"watery_eyes,sneezing,runny_nose,congestion",Allergic Rhinitis
+"cough,chest_pain,wheezing,shortness_of_breath",Bronchitis
+"fever,cough,chest_pain,difficulty_breathing,chills",Pneumonia
+"diarrhea,nausea,vomiting,abdominal_pain,fever",Gastroenteritis
+"sore_throat,fever,swollen_glands,difficulty_swallowing",Strep Throat
+"high_fever,joint_pain,muscle_pain,severe_headache,rash",Dengue Fever
+"fever,chills,sweating,nausea,headache,body_ache",Malaria
+"fever,weakness,abdominal_pain,headache,constipation",Typhoid
+"fever,stiff_neck,severe_headache,nausea,vomiting",Meningitis
+"fever,rash,cough,runny_nose,red_eyes",Measles
+"fever,sore_throat,fatigue,swollen_lymph_nodes",Mononucleosis
+"fever,severe_joint_pain,muscle_pain,headache,rash",Chikungunya
+"fever,rash,conjunctivitis,joint_pain,muscle_pain",Zika Virus
+"persistent_cough,weight_loss,night_sweats,fever,fatigue",Tuberculosis
+"jaundice,fever,nausea,abdominal_pain,fatigue",Hepatitis
+"fever,sore_throat,swollen_tonsils,difficulty_swallowing",Tonsillitis
+"high_fever,severe_headache,muscle_pain,joint_pain,pain_behind_eyes",Dengue Fever
+"fever,chills,sweating,headache,nausea,vomiting,body_ache",Malaria
+"high_fever,abdominal_pain,weakness,headache,loss_of_appetite",Typhoid
+"fever,severe_headache,stiff_neck,confusion,sensitivity_to_light",Meningitis
+"fever,cough,chest_pain,difficulty_breathing,rapid_heartbeat",Pneumonia
+"abdominal_pain,diarrhea,nausea,vomiting,fever,weakness",Gastroenteritis
+"persistent_cough,chest_pain,coughing_blood,weight_loss,night_sweats",Tuberculosis
+"fever,jaundice,dark_urine,pale_stool,abdominal_pain",Hepatitis
+"high_fever,severe_body_ache,joint_pain,headache,rash,nausea",Dengue Fever
+"fever,chills,sweating,muscle_pain,headache,fatigue",Malaria
+"fever,weakness,abdominal_pain,headache,diarrhea",Typhoid
+"sore_throat,fever,body_ache,headache,cough",Influenza (Flu)
+"runny_nose,sneezing,cough,sore_throat,mild_headache",Common Cold
+"fever,cough,loss_of_smell,fatigue,difficulty_breathing",COVID-19
+"sneezing,runny_nose,watery_eyes,itchy_nose,congestion",Allergic Rhinitis
+"cough,wheezing,chest_pain,shortness_of_breath,fatigue",Bronchitis
+"high_fever,joint_pain,severe_headache,pain_behind_eyes,muscle_pain",Dengue Fever
+"fever,chills,sweating,nausea,vomiting,headache",Malaria
+"high_fever,abdominal_pain,weakness,constipation,headache",Typhoid
+"fever,stiff_neck,severe_headache,vomiting,confusion",Meningitis
+"fever,cough,chest_pain,shortness_of_breath,chills",Pneumonia
+"diarrhea,abdominal_pain,nausea,fever,vomiting",Gastroenteritis
+"sore_throat,fever,swollen_lymph_nodes,difficulty_swallowing",Strep Throat
+"fever,rash,cough,conjunctivitis,runny_nose",Measles
+"fever,fatigue,sore_throat,swollen_glands,body_ache",Mononucleosis
+"high_fever,severe_joint_pain,muscle_pain,rash,headache",Chikungunya
+"fever,rash,joint_pain,red_eyes,headache",Zika Virus
+"persistent_cough,night_sweats,weight_loss,chest_pain,fatigue",Tuberculosis
+"fever,jaundice,nausea,abdominal_pain,loss_of_appetite",Hepatitis
+"fever,sore_throat,swollen_tonsils,headache,body_ache",Tonsillitis
+"high_fever,severe_headache,joint_pain,muscle_pain,bleeding_gums",Dengue Hemorrhagic Fever
+"fever,chills,sweating,headache,body_ache,nausea",Malaria
+"high_fever,weakness,abdominal_pain,loss_of_appetite,diarrhea",Typhoid
+"fever,body_ache,cough,fatigue,headache,sore_throat",Influenza (Flu)
+"runny_nose,sneezing,sore_throat,congestion,mild_fever",Common Cold
+"fever,cough,difficulty_breathing,loss_of_taste,chest_pain",COVID-19
+"sneezing,watery_eyes,runny_nose,itchy_eyes,congestion",Allergic Rhinitis
+"cough,chest_pain,wheezing,difficulty_breathing,fatigue",Bronchitis
