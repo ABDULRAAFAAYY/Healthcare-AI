@@ -99,15 +99,15 @@ def get_symptoms_list():
             'error': f'Failed to retrieve symptoms: {str(e)}'
         }), 500
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     print("=" * 60)
     print("Healthcare AI API Server")
     print("=" * 60)
     print(f"Symptom Predictor Status: {'Ready' if symptom_predictor.is_ready() else 'Not Ready'}")
     print(f"Image Predictor Status: {'Ready' if image_predictor.is_ready() else 'Not Ready'}")
     print("=" * 60)
-    print("Server starting on Render...")
+    print("Server starting on http://localhost:5000")
     print("=" * 60)
-
-    app.run(host="0.0.0.0", port=10000)
+    
+    app.run(debug=True, host='0.0.0.0', port=5000)
 
